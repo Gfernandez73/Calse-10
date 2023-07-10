@@ -10,6 +10,7 @@ h2{
 .productos{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 
 .card-body{
